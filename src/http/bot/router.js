@@ -18,6 +18,8 @@ Router.use(
   "/bot",
   (function (router) {
     router.post("/chat", ToCntlr(BotController, "chat"));
+    router.post("/train", ToCntlr(BotController, "train"));
+    router.post("/getFineTune", ToCntlr(BotController, "retrieveFineTune"));
     return router;
   })(Express.Router())
 );

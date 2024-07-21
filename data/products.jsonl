@@ -1,0 +1,5 @@
+{"id":"F-001","signedge":"Fire","name":"Product 1","description":"This is the description for Product 1.","specs": "Specifications for Product 1.","price":100}
+{"id":"N-001","signedge":"Notice","name":"Product 2","description":"This is the description for Product 2.","specs":"Specifications for Product 2.","price":200}
+{"id":"N-002","signedge":"Notice","name":"Product 3","description":"This is the description for Product 3.","specs":"Specifications for Product 3.","price":300}
+{"id":"D-001","signedge":"Danger","name":"Product 4","description":"This is the description for Product 4.","specs":"Specifications for Product 4.","price":400}
+{"id":"F-002","signedge":"Fire","name":"Product 5","description":"This is the description for Product 5.","specs":"Specifications for Product 5.","price":500}
