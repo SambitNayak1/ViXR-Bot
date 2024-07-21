@@ -34,7 +34,7 @@ class BotController {
       //Fine Tune
       const fineTuneResponse = await openaiClient.fineTuning.jobs.create({
         training_file: uploadResponse.id,
-        model: "gpt-3.5-turbo",
+        model: "davinci-002",
       });
       console.log("FineTuneResponse:--", fineTuneResponse);
       return this.resp.status(200).json({
@@ -50,7 +50,7 @@ class BotController {
   async retrieveFineTune() {
     try {
       const statusResponse = await openaiClient.fineTuning.jobs.retrieve(
-        "ftjob-9ykJncTBMJpUWyrU73HY2kdY"
+        "ftjob-upvmSucgvviMJNVEzkBmaTMy"
       );
       console.log("FineTuneStatus:--", statusResponse);
       return this.resp.status(200).json({ data: statusResponse });
@@ -68,24 +68,19 @@ class BotController {
     }
 
     try {
-      const response = await openaiClient.chat.completions.create({
-        model: "gpt-3.5-turbo-0125",
-        messages: [
-          { role: "system", content: "You are a helpful assistant." },
-          { role: "user", content: message },
-        ],
+      const response = await openaiClient.completions.create({
+        model: "ft:davinci-002:vixr-inc::9nOqY38u:ckpt-step-80",
+        prompt: message,
         temperature: 0.7,
         max_tokens: 50,
-        top_p: 1,
-        frequency_penalty: 0,
-        presence_penalty: 0,
       });
 
       console.log("Response:---", response);
 
-      return this.resp
-        .status(200)
-        .json({ message: response.choices[0].message.content });
+      return this.resp.status(200).json({
+        message: "Response generated successfully",
+        data: response.choices[0].text.trim(),
+      });
     } catch (error) {
       console.error("Error while chatting", error);
       return this.resp.status(500).json({ error: "Internal server error" });
