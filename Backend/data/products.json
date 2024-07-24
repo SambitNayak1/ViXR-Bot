@@ -33,7 +33,7 @@
     {
       "SignCode": "C-004",
       "SignalWord": "Caution",
-      "subcategory": "ForkLift",
+      "subcategory": "Falls",
       "Description": "Watch Out for Forklift",
       "Picto": "Yes",
       "Size": "5X7",
@@ -43,7 +43,7 @@
     {
       "SignCode": "C-005",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not operate this machine without guards in place. May cut, crush and cause injury",
       "Picto": "Yes",
       "Size": "7X10",
@@ -53,7 +53,7 @@
     {
       "SignCode": "C-006",
       "SignalWord": "Caution",
-      "subcategory": "Clearance",
+      "subcategory": "Falls",
       "Description": "Low Overhead Clearance",
       "Picto": "Yes",
       "Size": "7X10",
@@ -63,7 +63,7 @@
     {
       "SignCode": "C-007",
       "SignalWord": "Caution",
-      "subcategory": "Area-Hazardous",
+      "subcategory": "Authorised",
       "Description": "Hazardous material Storage Area",
       "Picto": "Yes",
       "Size": "7X10",
@@ -73,7 +73,7 @@
     {
       "SignCode": "C-008",
       "SignalWord": "Caution",
-      "subcategory": "Front Electrical Panel",
+      "subcategory": "Guard",
       "Description": "Area in front of this electrical Panel must be kept clear for 36 inches",
       "Picto": "Yes",
       "Size": "7X10",
@@ -83,7 +83,7 @@
     {
       "SignCode": "C-009",
       "SignalWord": "Caution",
-      "subcategory": "Area-Hazardous",
+      "subcategory": "Authorised",
       "Description": "Hazardous Area Authorised Personnel Only",
       "Picto": "Yes",
       "Size": "7X10",
@@ -113,7 +113,7 @@
     {
       "SignCode": "C-012",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Robot operating area. Do not enter. Authorized personnel only",
       "Picto": "Yes",
       "Size": "10X14",
@@ -123,7 +123,7 @@
     {
       "SignCode": "C-013",
       "SignalWord": "Caution",
-      "subcategory": "Clear Hands",
+      "subcategory": "Guard",
       "Description": "Pinch Point. Keep Hands Clear",
       "Picto": "Yes",
       "Size": "4X6",
@@ -143,7 +143,7 @@
     {
       "SignCode": "C-015",
       "SignalWord": "Caution",
-      "subcategory": "ForkLift",
+      "subcategory": "Falls",
       "Description": "Forklift Traffic. Keep Clear",
       "Picto": "Yes",
       "Size": "10X14",
@@ -213,7 +213,7 @@
     {
       "SignCode": "C-022",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not walk on conveyor. Falls can result in injury",
       "Picto": "Yes",
       "Size": "5X7",
@@ -223,7 +223,7 @@
     {
       "SignCode": "C-023",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not operate without guards. Machines may cause injury",
       "Picto": "Yes",
       "Size": "7X10",
@@ -233,7 +233,7 @@
     {
       "SignCode": "C-024",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not operate without guards",
       "Picto": "Yes",
       "Size": "7X10",
@@ -243,7 +243,7 @@
     {
       "SignCode": "C-025",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Authorised",
       "Description": "Do not enter",
       "Picto": "Yes",
       "Size": "7X10",
@@ -253,7 +253,7 @@
     {
       "SignCode": "C-026",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not enter while machinery in motion. May cause injury.",
       "Picto": "Yes",
       "Size": "7X10",
@@ -263,7 +263,7 @@
     {
       "SignCode": "C-027",
       "SignalWord": "Caution",
-      "subcategory": "Automatic",
+      "subcategory": "Falls",
       "Description": "Stay Clear. Automatic Equipment may start at any time",
       "Picto": "Yes",
       "Size": "10X14",
@@ -273,7 +273,7 @@
     {
       "SignCode": "C-028",
       "SignalWord": "Caution",
-      "subcategory": "Charging",
+      "subcategory": "Battery",
       "Description": "Battery Charging Station - No Smoking or Open Flames",
       "Picto": "Yes",
       "Size": "10X14",
@@ -293,7 +293,7 @@
     {
       "SignCode": "C-030",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Crush hazard. Keep hands and body clear",
       "Picto": "Yes",
       "Size": "7X10",
@@ -303,7 +303,7 @@
     {
       "SignCode": "C-031",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Crush hazard. Keep hands clear",
       "Picto": "Yes",
       "Size": "4X6",
@@ -313,7 +313,7 @@
     {
       "SignCode": "C-032",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Cut hazard. Keep hands clear",
       "Picto": "Yes",
       "Size": "4X6",
@@ -323,7 +323,7 @@
     {
       "SignCode": "C-033",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not operate without guards in place (Gear Picto)",
       "Picto": "Yes",
       "Size": "7X10",
@@ -333,7 +333,7 @@
     {
       "SignCode": "C-034",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not operate without guards in place (Cut Picto)",
       "Picto": "Yes",
       "Size": "4X6",
@@ -343,7 +343,7 @@
     {
       "SignCode": "C-035",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not enter when equipment is in operation",
       "Picto": "Yes",
       "Size": "10X14",
@@ -353,7 +353,7 @@
     {
       "SignCode": "C-036",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not climb or walk on equipment",
       "Picto": "Yes",
       "Size": "7X10",
@@ -363,7 +363,7 @@
     {
       "SignCode": "C-037",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not climb or walk on conveyor. Falls can result in injury",
       "Picto": "Yes",
       "Size": "5X7",
@@ -423,7 +423,7 @@
     {
       "SignCode": "C-043",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Moving parts. Keep hands clear.",
       "Picto": "Yes",
       "Size": "4X6",
@@ -433,7 +433,7 @@
     {
       "SignCode": "C-044",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Rotating parts. Keep hands clear",
       "Picto": "Yes",
       "Size": "4X6",
@@ -443,7 +443,7 @@
     {
       "SignCode": "C-045",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Moving conveyor. Keep hands clear",
       "Picto": "Yes",
       "Size": "5X7",
@@ -453,7 +453,7 @@
     {
       "SignCode": "C-046",
       "SignalWord": "Caution",
-      "subcategory": "Movement",
+      "subcategory": "Guard",
       "Description": "Look out for Pallet movement",
       "Picto": "Yes",
       "Size": "10X14",
@@ -463,7 +463,7 @@
     {
       "SignCode": "C-047",
       "SignalWord": "Caution",
-      "subcategory": "Moving",
+      "subcategory": "Guard",
       "Description": "Look out for moving hoist",
       "Picto": "Yes",
       "Size": "10X14",
@@ -473,7 +473,7 @@
     {
       "SignCode": "C-048",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not stand below raised load",
       "Picto": "Yes",
       "Size": "10X14",
@@ -483,7 +483,7 @@
     {
       "SignCode": "C-049",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not travel on forklift",
       "Picto": "Yes",
       "Size": "10X14",
@@ -493,7 +493,7 @@
     {
       "SignCode": "C-050",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not use mobile phones while riding",
       "Picto": "Yes",
       "Size": "12X18",
@@ -503,7 +503,7 @@
     {
       "SignCode": "C-051",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not lean. Falls may result in injury",
       "Picto": "Yes",
       "Size": "10X14",
@@ -513,7 +513,7 @@
     {
       "SignCode": "C-052",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Cold surface. Do not touch",
       "Picto": "Yes",
       "Size": "5X7",
@@ -523,7 +523,7 @@
     {
       "SignCode": "C-053",
       "SignalWord": "Caution",
-      "subcategory": "Automatic",
+      "subcategory": "Guard",
       "Description": "Automatic doors. Stay clear.",
       "Picto": "Yes",
       "Size": "5X7",
@@ -533,7 +533,7 @@
     {
       "SignCode": "C-054",
       "SignalWord": "Caution",
-      "subcategory": "Contact",
+      "subcategory": "Falls",
       "Description": "3 points of contact must be maintained at all times whilst on ladder",
       "Picto": "Yes",
       "Size": "5X7",
@@ -553,7 +553,7 @@
     {
       "SignCode": "C-056",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not operate Machine without guards (without picto)",
       "Picto": "Yes",
       "Size": "7X10",
@@ -563,7 +563,7 @@
     {
       "SignCode": "C-057",
       "SignalWord": "Caution",
-      "subcategory": "Person",
+      "subcategory": "Authorised",
       "Description": "2 Person operation required during loading",
       "Picto": "Yes",
       "Size": "7X10",
@@ -573,7 +573,7 @@
     {
       "SignCode": "C-058",
       "SignalWord": "Caution",
-      "subcategory": "Surface",
+      "subcategory": "Guard",
       "Description": "Caution - Cold Surface",
       "Picto": "Yes",
       "Size": "5X7",
@@ -583,7 +583,7 @@
     {
       "SignCode": "C-059",
       "SignalWord": "Caution",
-      "subcategory": "Material",
+      "subcategory": "Guard",
       "Description": "Caution - Heavy material handling. Keep clear",
       "Picto": "Yes",
       "Size": "7X10",
@@ -593,7 +593,7 @@
     {
       "SignCode": "C-060",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not apply force on load cells",
       "Picto": "Yes",
       "Size": "5X7",
@@ -603,7 +603,7 @@
     {
       "SignCode": "C-061",
       "SignalWord": "Caution",
-      "subcategory": "Place",
+      "subcategory": "Guard",
       "Description": "Ensure that the grating is in place",
       "Picto": "Yes",
       "Size": "5X7",
@@ -623,7 +623,7 @@
     {
       "SignCode": "C-063",
       "SignalWord": "Caution",
-      "subcategory": "Zone",
+      "subcategory": "Authorised",
       "Description": "You are entering Manufacturing zone. Ensure adherence to GMP",
       "Picto": "Yes",
       "Size": "14X10",
@@ -683,7 +683,7 @@
     {
       "SignCode": "C-069",
       "SignalWord": "Caution",
-      "subcategory": "Ensure",
+      "subcategory": "Guard",
       "Description": "Caution - Ensure valve is closed after diesel is filled",
       "Picto": "Yes",
       "Size": "7X10",
@@ -693,7 +693,7 @@
     {
       "SignCode": "C-070",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "PPE Required",
       "Description": "Do not handle more than 500 ml Flammable solvent inside",
       "Picto": "Yes",
       "Size": "7X10",
@@ -703,7 +703,7 @@
     {
       "SignCode": "C-071",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Chemical",
       "Description": "Do not drain Hazardous Waste here",
       "Picto": "Yes",
       "Size": "7X10",
@@ -713,7 +713,7 @@
     {
       "SignCode": "C-072",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Pinch Point. Keep Hands Clear (Roller Picto)",
       "Picto": "Yes",
       "Size": "4X6",
@@ -723,7 +723,7 @@
     {
       "SignCode": "C-073",
       "SignalWord": "Caution",
-      "subcategory": "ForkLift",
+      "subcategory": "Falls",
       "Description": "Forklift Traffic. Stop, look & proceed",
       "Picto": "Yes",
       "Size": "10X14",
@@ -743,7 +743,7 @@
     {
       "SignCode": "C-075",
       "SignalWord": "Caution",
-      "subcategory": "Automatic",
+      "subcategory": "Falls",
       "Description": "Approach slowly. Gates open and close automatically",
       "Picto": "Yes",
       "Size": "12X18",
@@ -753,7 +753,7 @@
     {
       "SignCode": "C-076",
       "SignalWord": "Caution",
-      "subcategory": "Lookout",
+      "subcategory": "Guard",
       "Description": "Lockout for safety",
       "Picto": "Yes",
       "Size": "14X10",
@@ -763,7 +763,7 @@
     {
       "SignCode": "C-077",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Falls",
       "Description": "Do not climb on racks",
       "Picto": "Yes",
       "Size": "10X14",
@@ -773,7 +773,7 @@
     {
       "SignCode": "C-078",
       "SignalWord": "Caution",
-      "subcategory": "Handle with care",
+      "subcategory": "Guard",
       "Description": "Handle glassware with care",
       "Picto": "Yes",
       "Size": "10X14",
@@ -813,7 +813,7 @@
     {
       "SignCode": "C-082",
       "SignalWord": "Caution",
-      "subcategory": "Door",
+      "subcategory": "Authorised",
       "Description": "Keep door closed",
       "Picto": "Yes",
       "Size": "7X10",
@@ -823,7 +823,7 @@
     {
       "SignCode": "C-083",
       "SignalWord": "Caution",
-      "subcategory": "Lookout",
+      "subcategory": "Guard",
       "Description": "Lockout before servicing",
       "Picto": "Yes",
       "Size": "10X14",
@@ -833,7 +833,7 @@
     {
       "SignCode": "C-084",
       "SignalWord": "Caution",
-      "subcategory": "Cut Hazard",
+      "subcategory": "Guard",
       "Description": "Cut hazard. Keep hands clear.",
       "Picto": "Yes",
       "Size": "5X7",
@@ -843,7 +843,7 @@
     {
       "SignCode": "C-085",
       "SignalWord": "Caution",
-      "subcategory": "Restriction",
+      "subcategory": "Authorised",
       "Description": "Entry Restricted",
       "Picto": "Yes",
       "Size": "7X10",
@@ -863,7 +863,7 @@
     {
       "SignCode": "C-087",
       "SignalWord": "Caution",
-      "subcategory": "Overhead",
+      "subcategory": "Falls",
       "Description": "Low Overhead Clearance.",
       "Picto": "Yes",
       "Size": "10X14",
@@ -873,7 +873,7 @@
     {
       "SignCode": "C-088",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Moving Blades. Keep hands clear of cutting blade",
       "Picto": "Yes",
       "Size": "4X6",
@@ -893,7 +893,7 @@
     {
       "SignCode": "C-090",
       "SignalWord": "Caution",
-      "subcategory": "Gloves",
+      "subcategory": "PPE Required",
       "Description": "Use Cut Resistant Gloves with PICTO",
       "Picto": "Yes",
       "Size": "10X14",
@@ -903,7 +903,7 @@
     {
       "SignCode": "C-091",
       "SignalWord": "Caution",
-      "subcategory": "Resopirator",
+      "subcategory": "PPE Required",
       "Description": "Use Respirator Beyond this Point with Picto",
       "Picto": "Yes",
       "Size": "10X14",
@@ -983,7 +983,7 @@
     {
       "SignCode": "C-099",
       "SignalWord": "Caution",
-      "subcategory": "Gloves",
+      "subcategory": "PPE Required",
       "Description": "Long Sleeve Heat Resistant gloves required",
       "Picto": "Yes",
       "Size": "14X10",
@@ -993,7 +993,7 @@
     {
       "SignCode": "C-100",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Moving conveyor. Keep hands clear",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1003,7 +1003,7 @@
     {
       "SignCode": "C-101",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Moving conveyor. Keep hands clear",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1013,7 +1013,7 @@
     {
       "SignCode": "C-102",
       "SignalWord": "Caution",
-      "subcategory": "Handle with care",
+      "subcategory": "Guard",
       "Description": "Open door with care",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1023,7 +1023,7 @@
     {
       "SignCode": "C-103",
       "SignalWord": "Caution",
-      "subcategory": "Hands",
+      "subcategory": "Guard",
       "Description": "Pinch Point. Keep hands clear (Gear picto)",
       "Picto": "Yes",
       "Size": "4X6",
@@ -1065,7 +1065,7 @@
     {
       "SignCode": "W-003",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not Remove Guards or operate machinery without them. Severe injury may result.",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1105,7 +1105,7 @@
     {
       "SignCode": "W-007",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Guard",
       "Description": "Be sure Cylinder is properly Supported and Capped",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1115,7 +1115,7 @@
     {
       "SignCode": "W-008",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Fall",
       "Description": "Slippery Floor",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1135,7 +1135,7 @@
     {
       "SignCode": "W-010",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "PPE",
       "Description": "Wear your gloves",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1145,7 +1145,7 @@
     {
       "SignCode": "W-011",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "PPE",
       "Description": "Hard Hat area",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1155,7 +1155,7 @@
     {
       "SignCode": "W-012",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "PPE",
       "Description": "Wear face sheild",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1165,7 +1165,7 @@
     {
       "SignCode": "W-013",
       "SignalWord": "Warning",
-      "subcategory": "Protection",
+      "subcategory": "PPE",
       "Description": "Eye and ear protection required in this area",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1175,7 +1175,7 @@
     {
       "SignCode": "W-014",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Xray",
       "Description": "X-ray radiation",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1185,7 +1185,7 @@
     {
       "SignCode": "W-015",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Fall",
       "Description": "Fall Protection required in this area",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1205,7 +1205,7 @@
     {
       "SignCode": "W-017",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Fall",
       "Description": "Look out for lift trucks",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1215,7 +1215,7 @@
     {
       "SignCode": "W-018",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Chemical",
       "Description": "Explosive material",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1275,7 +1275,7 @@
     {
       "SignCode": "W-024",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "PPE",
       "Description": "Laser radiation. Avoid eye or skin exposure",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1285,7 +1285,7 @@
     {
       "SignCode": "W-025",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Hazard",
       "Description": "Stay clear of pressure release valve",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1305,7 +1305,7 @@
     {
       "SignCode": "W-027",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Blower",
       "Description": "Warning Sign for Blowers",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1315,7 +1315,7 @@
     {
       "SignCode": "W-028",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Fall",
       "Description": "3 points of contact must be maintained at all times whilst on ladder",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1325,7 +1325,7 @@
     {
       "SignCode": "W-029",
       "SignalWord": "Warning",
-      "subcategory": "Protection",
+      "subcategory": "PPE",
       "Description": "Hard hat & Safety harness must be worn while climbing",
       "Picto": "Yes",
       "Size": "14X10",
@@ -1335,7 +1335,7 @@
     {
       "SignCode": "W-030",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Guard",
       "Description": "Keep Cylinders chained",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1345,7 +1345,7 @@
     {
       "SignCode": "W-031",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Fall",
       "Description": "Do not stand below raised loads",
       "Picto": "Yes",
       "Size": "18X12",
@@ -1355,7 +1355,7 @@
     {
       "SignCode": "W-032",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Fall",
       "Description": "Do not travel on forklift",
       "Picto": "Yes",
       "Size": "18X12",
@@ -1365,7 +1365,7 @@
     {
       "SignCode": "W-033",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Fall",
       "Description": "Do not use mobile phones while driving",
       "Picto": "Yes",
       "Size": "18X12",
@@ -1405,7 +1405,7 @@
     {
       "SignCode": "W-037",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Guard",
       "Description": "Do not open when equipment is operating",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1415,7 +1415,7 @@
     {
       "SignCode": "W-038",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Fall",
       "Description": "Do not use Mobile phones",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1425,7 +1425,7 @@
     {
       "SignCode": "W-039",
       "SignalWord": "Warning",
-      "subcategory": "Restriction",
+      "subcategory": "Authorized",
       "Description": "Entry Restricted",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1445,7 +1445,7 @@
     {
       "SignCode": "W-041",
       "SignalWord": "Warning",
-      "subcategory": "Protection",
+      "subcategory": "Guard",
       "Description": "Keep Cylinders chained",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1455,7 +1455,7 @@
     {
       "SignCode": "W-042",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Guard",
       "Description": "Pinch Point. Keep hands clear (Roller picto)",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1465,7 +1465,7 @@
     {
       "SignCode": "W-043",
       "SignalWord": "Warning",
-      "subcategory": "Precautions",
+      "subcategory": "Guard",
       "Description": "Do not wear loose clothes",
       "Picto": "Yes",
       "Size": "7X10",
@@ -1473,11 +1473,293 @@
       "Image": "W-043  Do not wear loose clothes-1.png"
     }
   ],
+  "Danger": [
+    {
+      "SignCode": "D-002",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Confined Space. Entry by permit only.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-002 Danger-ConfinedSpace-EntryByPermitOnly_New-1.png"
+    },
+    {
+      "SignCode": "D-003",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Confined Space. Entry by permit only.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-003 Danger_ConfinedSpace_EntryByPermitOnly_New-1.png"
+    },
+    {
+      "SignCode": "D-004",
+      "SignalWord": "Danger",
+      "subcategory": "Chemical",
+      "Description": "Flammable Liquids",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-004 Dager Flammable Liquids5X7-1.png"
+    },
+    {
+      "SignCode": "D-005",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Do not operate this machine unless authorized.",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-005 New Danger Donot oparete  this Machine Unless Authorized5X7-1.png"
+    },
+    {
+      "SignCode": "D-006",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Do not enter. Authorized personnel only",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-006 New Danger Donot enter Authorized personnel only-1.png"
+    },
+    {
+      "SignCode": "D-007",
+      "SignalWord": "Danger",
+      "subcategory": "No Smoking",
+      "Description": "No Smoking",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-007 Danger-NoSmoking-1.png"
+    },
+    {
+      "SignCode": "D-008",
+      "SignalWord": "Danger",
+      "subcategory": "Chemical",
+      "Description": "Gasoline",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-008 New Danger Gasoline 10x14-1.png"
+    },
+    {
+      "SignCode": "D-009",
+      "SignalWord": "Danger",
+      "subcategory": "Chemical",
+      "Description": "Flammable material. No smoking or open flames.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-009 Danger-FlammableMaterial_New-1.png"
+    },
+    {
+      "SignCode": "D-011",
+      "SignalWord": "Danger",
+      "subcategory": "Chemical",
+      "Description": "Hazardous materials.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-011 New Dager Hazardous Material 4x6-1.png"
+    },
+    {
+      "SignCode": "D-012",
+      "SignalWord": "Danger",
+      "subcategory": "Fall",
+      "Description": "This equipment starts automatically.",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-012 New DagerThis eq starts auto 5x7-1.png"
+    },
+    {
+      "SignCode": "D-016",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Restricted Area",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-016 New Dager Restricted Area 5X7-1.png"
+    },
+    {
+      "SignCode": "D-018",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Robotic Area. Authorized personnel only.",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-018 New Dager Robotic Area  5X7-1.png"
+    },
+    {
+      "SignCode": "D-019",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Robotic Area. Authorized personnel only.",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-019 Danger_Acids_WearAppropriatePPE-1.png"
+    },
+    {
+      "SignCode": "D-020",
+      "SignalWord": "Danger",
+      "subcategory": "Guard",
+      "Description": "Acids contact will result in severe injury, burns or death.",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-020 Danger_AcidsContact-1.png"
+    },
+    {
+      "SignCode": "D-021",
+      "SignalWord": "Danger",
+      "subcategory": "Guard",
+      "Description": "Crane overhead. Proceed with caution",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-021 Danger_CraneOverhead_ProceedwithCaution-1.png"
+    },
+    {
+      "SignCode": "D-025",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Do not open unless authorized",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-025 Danger - Do not open unless authorized-1.png"
+    },
+    {
+      "SignCode": "D-026",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Do not open unless authorized",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-026 Danger - Ammonia-1.png"
+    },
+    {
+      "SignCode": "D-027",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Do not open unless authorized",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-027 Danger - High pressure Ammonia-1.png"
+    },
+    {
+      "SignCode": "D-035",
+      "SignalWord": "Danger",
+      "subcategory": "Steam",
+      "Description": "Live Steam",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-035 Danger_Live Steam-1.png"
+    },
+    {
+      "SignCode": "D-036",
+      "SignalWord": "Danger",
+      "subcategory": "Steam",
+      "Description": "Hot Steam. Open with care",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-036 Danger_Hot steam-1.png"
+    },
+    {
+      "SignCode": "D-038",
+      "SignalWord": "Danger",
+      "subcategory": "Storage",
+      "Description": "Cold storage area",
+      "Picto": "Yes",
+      "Size": "24X36",
+      "Industry": "All",
+      "Image": "D-038 Danger- Cold storage area-1.png"
+    },
+    {
+      "SignCode": "D-039",
+      "SignalWord": "Danger",
+      "subcategory": "Guard",
+      "Description": "Diesel Generator & Storage Tank",
+      "Picto": "Yes",
+      "Size": "24X36",
+      "Industry": "All",
+      "Image": "D-039 Diesel generator& storage tank-1.png"
+    },
+    {
+      "SignCode": "D-040",
+      "SignalWord": "Danger",
+      "subcategory": "Guard",
+      "Description": "Acids contact will result in severe burns injury or death",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-040 Danger_Acids contact-1.png"
+    },
+    {
+      "SignCode": "D-041",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Confined Space. Entry by Permit only. Buddy System must be followed",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-041 Danger_Confined space-1.png"
+    },
+    {
+      "SignCode": "D-043",
+      "SignalWord": "Danger",
+      "subcategory": "Fall",
+      "Description": "Do not use Mobile phone",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-043 Danger_Do not use mobile phone-1.png"
+    },
+    {
+      "SignCode": "D-047",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Gas Cylinder Storage Area. Authorized personnel only",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-047 Danger_Gas cylider storange area-1.png"
+    },
+    {
+      "SignCode": "D-050",
+      "SignalWord": "Danger",
+      "subcategory": "No Smoking",
+      "Description": "No Smoking or Open flames",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-050 Danger_No smoking flames-1.png"
+    },
+    {
+      "SignCode": "D-051",
+      "SignalWord": "Danger",
+      "subcategory": "Authorized",
+      "Description": "Oil Storage Area. Authoriszed Personnel only",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-051 Danger_Oil storage area-1.png"
+    }
+  ],
   "Notice": [
     {
       "SignCode": "N-001",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Authorized",
       "Description": "Authorised Personnel Only",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1487,7 +1769,7 @@
     {
       "SignCode": "N-002",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "No Smoking",
       "Description": "No Smoking",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1497,7 +1779,7 @@
     {
       "SignCode": "N-003",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Authorized",
       "Description": "Employee Entrance Only",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1507,7 +1789,7 @@
     {
       "SignCode": "N-004",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Authorized",
       "Description": "Keep This Door Closed",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1517,32 +1799,12 @@
     {
       "SignCode": "N-005",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Authorized",
       "Description": "All Employees must wash their hands before returning to work",
       "Picto": "Yes",
       "Size": "10X14",
       "Industry": "All",
       "Image": "N-005 Notice_All employess must wash their hands before returning to work_NewANSI_10x14-1.png"
-    },
-    {
-      "SignCode": "N-006",
-      "SignalWord": "Notice",
-      "subcategory": "Mandatory",
-      "Description": "Chain all cylinders securely",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-006 Notice_Chain all cylinders securely_NewANSI_10x14-1.png"
-    },
-    {
-      "SignCode": "N-007",
-      "SignalWord": "Notice",
-      "subcategory": "Mandatory",
-      "Description": "No Entry unless Authorised",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-007 Notice_No entry unless authorized_NewANSI_10x14-1.png"
     },
     {
       "SignCode": "N-008",
@@ -1555,19 +1817,9 @@
       "Image": "N-008 Notice_Do not smoke, eat or drink in this area_NewANSI_10x14-1.png"
     },
     {
-      "SignCode": "N-009",
-      "SignalWord": "Notice",
-      "subcategory": "Restriction",
-      "Description": "Ear Protection must be worn beyond this point",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-009 Notice_Ear protection must be worn beyond this point_NewANSI_10x14-1.png"
-    },
-    {
       "SignCode": "N-010",
       "SignalWord": "Notice",
-      "subcategory": "PPE",
+      "subcategory": "Safety",
       "Description": "Hair covering required in this area",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1577,7 +1829,7 @@
     {
       "SignCode": "N-011",
       "SignalWord": "Notice",
-      "subcategory": "PPE",
+      "subcategory": "Safety",
       "Description": "Hairnets and beard cover required in this area",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1587,7 +1839,7 @@
     {
       "SignCode": "N-012",
       "SignalWord": "Notice",
-      "subcategory": "PPE",
+      "subcategory": "Safety",
       "Description": "Hard Hats must be worn",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1597,7 +1849,7 @@
     {
       "SignCode": "N-013",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Keep this place clean and orderly",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1607,7 +1859,7 @@
     {
       "SignCode": "N-014",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "No cellular phones allowed",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1617,7 +1869,7 @@
     {
       "SignCode": "N-015",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Authorized",
       "Description": "No Entry unless Authorised",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1627,7 +1879,7 @@
     {
       "SignCode": "N-016",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "No goggles no work",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1637,7 +1889,7 @@
     {
       "SignCode": "N-017",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "Non-Potable water. Do not drink.",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1647,7 +1899,7 @@
     {
       "SignCode": "N-018",
       "SignalWord": "Notice",
-      "subcategory": "PPE",
+      "subcategory": "Safety",
       "Description": "Safety Shoes required in this area",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1657,7 +1909,7 @@
     {
       "SignCode": "N-019",
       "SignalWord": "Notice",
-      "subcategory": "PPE",
+      "subcategory": "Safety",
       "Description": "Safety glasses required beyond this point",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1665,29 +1917,9 @@
       "Image": "N-019 Notice_Safety glasses required beyond this point_NewANSI_7x10-1.png"
     },
     {
-      "SignCode": "N-020",
-      "SignalWord": "Notice",
-      "subcategory": "Mandatory",
-      "Description": "Store full gas cylinder here",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-020 Notice_Store full gas cylinders here_NewANSI_7x10-1.png"
-    },
-    {
-      "SignCode": "N-021",
-      "SignalWord": "Notice",
-      "subcategory": "Restriction",
-      "Description": "This is a smoke free facility",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-021 Notice_This is a smoke free facility_NewANSI_7x10-1.png"
-    },
-    {
       "SignCode": "N-022",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "CCTV",
       "Description": "Video surveillance in use on these premises",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1697,7 +1929,7 @@
     {
       "SignCode": "N-023",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Wash Hands before returning to work",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1707,7 +1939,7 @@
     {
       "SignCode": "N-024",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Wash your hands. Avoid contamination.",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1717,7 +1949,7 @@
     {
       "SignCode": "N-025",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "All Visitors must register at Office",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1727,7 +1959,7 @@
     {
       "SignCode": "N-026",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "Turn off Cellular phones, pagers and other wireless devices",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1737,7 +1969,7 @@
     {
       "SignCode": "N-027",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "Parking Facilities under camera surveillance and security patrols",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1747,7 +1979,7 @@
     {
       "SignCode": "N-028",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Keep this area clear",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1757,7 +1989,7 @@
     {
       "SignCode": "N-029",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Report all injuries immediately no matter how slightly",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1767,7 +1999,7 @@
     {
       "SignCode": "N-030",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "Security Alarm will sound if door is opened",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1777,7 +2009,7 @@
     {
       "SignCode": "N-031",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Right to Know Information available in this office",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1787,7 +2019,7 @@
     {
       "SignCode": "N-032",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Save Energy Close Doors when not in use",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1797,7 +2029,7 @@
     {
       "SignCode": "N-033",
       "SignalWord": "Notice",
-      "subcategory": "PPE",
+      "subcategory": "Safety",
       "Description": "Shoe Covers required",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1807,7 +2039,7 @@
     {
       "SignCode": "N-034",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "Do not Store material here",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1815,29 +2047,9 @@
       "Image": "N-034 Notice_Do not store material here-1.png"
     },
     {
-      "SignCode": "N-035",
-      "SignalWord": "Notice",
-      "subcategory": "Mandatory",
-      "Description": "Cylinders not connected must be capped",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-035 Notice_CYLINDERS NOT CONNECTED MUST BE CAPPED_10x14-1.png"
-    },
-    {
-      "SignCode": "N-036",
-      "SignalWord": "Notice",
-      "subcategory": "Restriction",
-      "Description": "Hot Work Permits are Required for all welding and Cutting operations",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-036 Notice_HOT WORK PERMITS ARE REQUIRED FOR ALL WELDING AND CUTTING OPERATIONS_7x10-1.png"
-    },
-    {
       "SignCode": "N-037",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Safety",
       "Description": "Photography is prohibited in these premises",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1847,7 +2059,7 @@
     {
       "SignCode": "N-038",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Authorized",
       "Description": "Entry Restricted",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1857,7 +2069,7 @@
     {
       "SignCode": "N-039",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Safety",
       "Description": "Ensure the room is clean before leaving",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1865,29 +2077,9 @@
       "Image": "N-039 Notice- Ensure the room is clean before le-1.png"
     },
     {
-      "SignCode": "N-040",
-      "SignalWord": "Notice",
-      "subcategory": "Mandatory",
-      "Description": "Register at security desk",
-      "Picto": "Yes",
-      "Size": "14X10",
-      "Industry": "All",
-      "Image": "N-040 Notice-Register at secuirity office-1.png"
-    },
-    {
-      "SignCode": "N-041",
-      "SignalWord": "Notice",
-      "subcategory": "Mandatory",
-      "Description": "Soft Water",
-      "Picto": "Yes",
-      "Size": "10X14",
-      "Industry": "All",
-      "Image": "N-041 Notice- Soft water-1.png"
-    },
-    {
       "SignCode": "N-042",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Lift",
       "Description": "This lift is for material movement only",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1897,7 +2089,7 @@
     {
       "SignCode": "N-043",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Canteen",
       "Description": "Do not waste food",
       "Picto": "Yes",
       "Size": "10X14",
@@ -1905,19 +2097,9 @@
       "Image": "N-043 Notice-DoNotWasteFood-1.png"
     },
     {
-      "SignCode": "N-044",
-      "SignalWord": "Notice",
-      "subcategory": "Forklift",
-      "Description": "Forklift Parking Area. Keep Clear",
-      "Picto": "Yes",
-      "Size": "12X18",
-      "Industry": "All",
-      "Image": "N-044 Notice-ForkliftParkingArea-KeepClear-1.png"
-    },
-    {
       "SignCode": "N-045",
       "SignalWord": "Notice",
-      "subcategory": "Restriction",
+      "subcategory": "Authorized",
       "Description": "No jewellery\nNo piercing\nNo exposed cuts\nbeyond this point",
       "Picto": "Yes",
       "Size": "18X12",
@@ -1927,7 +2109,7 @@
     {
       "SignCode": "N-046",
       "SignalWord": "Notice",
-      "subcategory": "Mandatory",
+      "subcategory": "Authorized",
       "Description": "Mandatory Sign ",
       "Picto": "Yes",
       "Size": "18X12",
@@ -4804,7 +4986,7 @@
     {
       "SignCode": "T-046",
       "SignalWord": "Traffic Signs",
-      "subcategory": "Restriction",
+      "subcategory": "Parking",
       "Description": "Do not use earphones while walking",
       "Picto": "Yes",
       "Size": "18X18",
@@ -4814,7 +4996,7 @@
     {
       "SignCode": "T-047",
       "SignalWord": "Traffic Signs",
-      "subcategory": "Restriction",
+      "subcategory": "Parking",
       "Description": "Do not use mobile phones",
       "Picto": "Yes",
       "Size": "18X18",
@@ -4825,7 +5007,8 @@
       "SignCode": "T-049",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-01-  Ambulance PARKING",
+      "Description": "Ambulance PARKING",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-01-  Ambulance PARKING-1.png"
     },
@@ -4833,7 +5016,8 @@
       "SignCode": "T-050",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-02-  CNG Vehicle",
+      "Description": "CNG Vehicle",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-02-  CNG Vehicle-1.png"
     },
@@ -4841,7 +5025,8 @@
       "SignCode": "T-051",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-03 - Company bus tracking",
+      "Description": "Company bus tracking",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-03 - Company bus tracking-1.png"
     },
@@ -4849,7 +5034,8 @@
       "SignCode": "T-052",
       "SignalWord": "Traffic Signs",
       "subcategory": "Driver",
-      "Description": "T-04- Drivers Do's & don'tt",
+      "Description": "Drivers Do's & don'tt",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-04- Drivers Do's & don'tt-1.png"
     },
@@ -4857,7 +5043,8 @@
       "SignCode": "T-053",
       "SignalWord": "Traffic Signs",
       "subcategory": "Direction",
-      "Description": "T-05- Left curve",
+      "Description": "Left curve",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-05- Left curve-1.png"
     },
@@ -4865,7 +5052,8 @@
       "SignCode": "T-054",
       "SignalWord": "Traffic Signs",
       "subcategory": "Loading",
-      "Description": "T-06- Loading Bay",
+      "Description": "Loading Bay",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-06- Loading Bay-1.png"
     },
@@ -4873,7 +5061,8 @@
       "SignCode": "T-055",
       "SignalWord": "Traffic Signs",
       "subcategory": "Safety",
-      "Description": "T-07  No Helmet No seat belt",
+      "Description": "No Helmet No seat belt",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-07  No Helmet No seat belt-1.png"
     },
@@ -4881,7 +5070,8 @@
       "SignCode": "T-056",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-08- Parking al own risk",
+      "Description": "Parking al own risk",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-08- Parking al own risk-1.png"
     },
@@ -4889,7 +5079,8 @@
       "SignCode": "T-057",
       "SignalWord": "Traffic Signs",
       "subcategory": "Pedestrian",
-      "Description": "T-09 - Pedestrain Walkway",
+      "Description": "Pedestrain Walkway",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-09 - Pedestrain Walkway-1.png"
     },
@@ -4897,7 +5088,8 @@
       "SignCode": "T-058",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-049-  Reserved Parking",
+      "Description": "Reserved Parking",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-049-  Reserved Parking-1.png"
     },
@@ -4905,7 +5097,8 @@
       "SignCode": "T-059",
       "SignalWord": "Traffic Signs",
       "subcategory": "Direction",
-      "Description": "T-050-Traffic - Right curve",
+      "Description": "Traffic - Right curve",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-050-Traffic - Right curve-1.png"
     },
@@ -4913,7 +5106,8 @@
       "SignCode": "T-060",
       "SignalWord": "Traffic Signs",
       "subcategory": "Speed",
-      "Description": "T-051 - Speed limit-10",
+      "Description": "Speed limit-10",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-051 - Speed limit-10-1.png"
     },
@@ -4921,7 +5115,8 @@
       "SignCode": "T-061",
       "SignalWord": "Traffic Signs",
       "subcategory": "Speed",
-      "Description": "T-052- Speed limit-15",
+      "Description": "Speed limit-15",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-052- Speed limit-15-1.png"
     },
@@ -4929,7 +5124,8 @@
       "SignCode": "T-062",
       "SignalWord": "Traffic Signs",
       "subcategory": "Speed",
-      "Description": "T-053 - Speed limit-20",
+      "Description": "Speed limit-20",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-053 - Speed limit-20-1.png"
     },
@@ -4937,7 +5133,8 @@
       "SignCode": "T-063",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-054 - Two wheeler parking",
+      "Description": "Two wheeler parking",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-054 - Two wheeler parking-1.png"
     },
@@ -4945,7 +5142,8 @@
       "SignCode": "T-064",
       "SignalWord": "Traffic Signs",
       "subcategory": "Direction",
-      "Description": "T-055 - Way to IN",
+      "Description": "Way to IN",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-055 - Way to IN-1.png"
     },
@@ -4953,7 +5151,8 @@
       "SignCode": "T-065",
       "SignalWord": "Traffic Signs",
       "subcategory": "Direction",
-      "Description": "T-056 - Way to out",
+      "Description": "Way to out",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-056 - Way to out-1.png"
     },
@@ -4961,7 +5160,8 @@
       "SignCode": "T-066",
       "SignalWord": "Traffic Signs",
       "subcategory": "Safety",
-      "Description": "T-057- Keep helmet safe",
+      "Description": "Keep helmet safe",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-057- Keep helmet safe-1.png"
     },
@@ -4969,7 +5169,8 @@
       "SignCode": "T-067",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-058- Inward weigh bridge",
+      "Description": "Inward weigh bridge",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-058- Inward weigh bridge-1.png"
     },
@@ -4977,7 +5178,8 @@
       "SignCode": "T-068",
       "SignalWord": "Traffic Signs",
       "subcategory": "Loading",
-      "Description": "T-059- Unloading Bay",
+      "Description": "Unloading Bay",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-059- Unloading Bay-1.png"
     },
@@ -4985,7 +5187,8 @@
       "SignCode": "T-069",
       "SignalWord": "Traffic Signs",
       "subcategory": "Loading",
-      "Description": "T-060- Loading & unloading bay",
+      "Description": "Loading & unloading bay",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-060- Loading & unloading bay-1.png"
     },
@@ -4993,7 +5196,8 @@
       "SignCode": "T-070",
       "SignalWord": "Traffic Signs",
       "subcategory": "Parking",
-      "Description": "T-061- Outwardweigh bridge",
+      "Description": "Outwardweigh bridge",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-061- Outwardweigh bridge-1.png"
     },
@@ -5001,7 +5205,8 @@
       "SignCode": "T-071",
       "SignalWord": "Traffic Signs",
       "subcategory": "Pedestrian",
-      "Description": "T-062- Pedestrain Crossing",
+      "Description": "Pedestrain Crossing",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-062- Pedestrain Crossing-1.png"
     },
@@ -5009,7 +5214,8 @@
       "SignCode": "T-072",
       "SignalWord": "Traffic Signs",
       "subcategory": "Stop",
-      "Description": "T-063- Stop vehicle for check",
+      "Description": "Stop vehicle for check",
+      "Picto": "Yes",
       "Size": "24X18,24X36,",
       "Image": "T-063- Stop vehicle for check-1.png"
     },
@@ -5017,23 +5223,26 @@
       "SignCode": "T-073",
       "SignalWord": "Traffic Signs",
       "subcategory": "Direction",
-      "Description": "T-064 OUT",
+      "Description": "OUT",
+      "Picto": "Yes",
       "Size": "24X18,12X18,",
       "Image": "T-064 OUT-1.png"
     },
     {
       "SignCode": "T-074",
       "SignalWord": "Traffic Signs",
-      "subcategory": "Driver",
-      "Description": "T-065 IN",
+      "subcategory": "Direction",
+      "Description": "IN",
+      "Picto": "Yes",
       "Size": "24x36,48x36,",
       "Image": "T-065 IN-1.png"
     },
     {
       "SignCode": "T-075",
       "SignalWord": "Traffic Signs",
-      "subcategory": "Driver",
-      "Description": "T-066-GST board",
+      "subcategory": "GST",
+      "Description": "GST board",
+      "Picto": "Yes",
       "Size": "24x36,48x36,",
       "Image": "T-066-GST board-1.png"
     },
@@ -5041,7 +5250,8 @@
       "SignCode": "T-076",
       "SignalWord": "Traffic Signs",
       "subcategory": "Driver",
-      "Description": "T-067 -Drivers - 1",
+      "Description": "Drivers - 1",
+      "Picto": "Yes",
       "Size": "24x36,48x36,",
       "Image": "T-067 -Drivers - 1-1.png"
     },
@@ -5049,7 +5259,8 @@
       "SignCode": "T-077",
       "SignalWord": "Traffic Signs",
       "subcategory": "Driver",
-      "Description": "T-068-Driver Instruction",
+      "Description": "Driver Instruction",
+      "Picto": "Yes",
       "Size": "24x36,48x36,",
       "Image": "T-068-Driver Instruction-1.png"
     },
@@ -5057,9 +5268,30 @@
       "SignCode": "T-078",
       "SignalWord": "Traffic Signs",
       "subcategory": "Direction",
-      "Description": "T-069 -Direction sign",
+      "Description": "Direction sign",
+      "Picto": "Yes",
       "Size": "24x36,48x36,",
       "Image": "T-069 -Direction sign-1.png"
+    },
+    {
+      "SignCode": "D-023",
+      "SignalWord": "Danger",
+      "subcategory": "Restriction",
+      "Description": "Not a pedestrian walkway. Trucks only.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-023 Danger_NotAPedestrianWalkway-1.png"
+    },
+    {
+      "SignCode": "D-010",
+      "SignalWord": "Danger",
+      "subcategory": "Restriction",
+      "Description": "Not a pedestrian walkway. Fork trucks only.",
+      "Picto": "Yes",
+      "Size": "12X18",
+      "Industry": "All",
+      "Image": "D-010 New Dager Not a Pedestrian Walkway Fork trunks only 5X7-1.png"
     }
   ],
   "Electrical": [
@@ -5068,6 +5300,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Poster",
       "Description": "CPR posters ",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-1 CPR posters-1.png"
     },
@@ -5076,6 +5309,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Danger - 11 kva",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-3 11 kva-1.png"
     },
@@ -5084,6 +5318,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "230 KVA Safety Instructions",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-4- 230 KVA Safety Instructions-1.png"
     },
@@ -5092,6 +5327,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Panel room Safety Instructions",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-5- Panel room Safety Instructions-1.png"
     },
@@ -5100,6 +5336,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": " 415Volts Electrical shock hazard",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-6- 415Volts Electrical shock hazard-1.png"
     },
@@ -5108,6 +5345,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Sticker",
       "Description": " -High mask sticker",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-7 -High mask sticker-1.png"
     },
@@ -5116,6 +5354,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": " Substation Safety Instruction",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-8- Substation Safety Instruction-1.png"
     },
@@ -5124,6 +5363,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Danger-440 Volts",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-9 Danger-440 Volts-1.png"
     },
@@ -5132,6 +5372,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "415 volts",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-10- 415 volts-1.png"
     },
@@ -5140,6 +5381,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "230 volts",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-11 - 230 volts-1.png"
     },
@@ -5148,6 +5390,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "DG",
       "Description": "EL-012-DG Yard -1",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-012-DG Yard -1-1.png"
     },
@@ -5156,6 +5399,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "DG",
       "Description": "EL-013-DG Yard safety precautions",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-013-DG Yard safety precautions-1.png"
     },
@@ -5164,6 +5408,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "DG",
       "Description": "DG YARD",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-014-DG YARD-1.png"
     },
@@ -5172,6 +5417,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Arc Label-1",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-045 Arc label-1.png"
     },
@@ -5180,6 +5426,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Forklift ",
       "Description": "MHE Security",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL- 046 MHE Security-1.png"
     },
@@ -5188,6 +5435,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Power",
       "Description": "Power House Safety Ins ",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL -047 Power house-1.png"
     },
@@ -5196,6 +5444,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "UPS & LT Panel ",
       "Description": "UPS & LT Panel Safety Ins ",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X81",
       "Image": "EL -029 LT & UPS PANEL-1.png"
     },
@@ -5204,6 +5453,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Blower",
       "Description": "Blower Safety Instructions",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X81",
       "Image": "EL-2 Blower Safety Instructions-1.png"
     },
@@ -5212,6 +5462,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Electrical shock Hazard New-1",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-16 Electrical shock Hazard New-1.png"
     },
@@ -5220,6 +5471,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Electrical shock Hazard New-1",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-17 Electrical shock Hazard New-1.png"
     },
@@ -5228,6 +5480,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Electrical shock Hazard-1",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-18 Electrical shock Hazard-1.png"
     },
@@ -5236,6 +5489,7 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "Explosion Hazard-1",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-19 Electrical Explosion Hazard-1.png"
     },
@@ -5244,8 +5498,289 @@
       "SignalWord": "Electrical ",
       "subcategory": "Panel",
       "Description": "High Voltage APO-1",
+      "Picto": "Yes",
       "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X72",
       "Image": "EL-20 High Voltage APO-1.png"
+    },
+    {
+      "SignCode": "D-001",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "11000 Volts Multilingual Sign",
+      "Picto": "Yes",
+      "Size": "10X10",
+      "Industry": "All",
+      "Image": "D-001 Danger-11000 Volts Multilingual Sign-1.png"
+    },
+    {
+      "SignCode": "D-013",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "Flammable. Keep flames & heat away",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-013 New Dager Flammable Keep flames&Heat Away 4X6-1.png"
+    },
+    {
+      "SignCode": "D-014",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "Area in front of this electrical panel must be kept clear for 36 inches. OSHA-NEC Regulations.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-014 New Area in front of this El panel must be kept clear for 36 inches Osha Nec Regulation 10x14-1.png"
+    },
+    {
+      "SignCode": "D-015",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "Electrical equipment. Authorized personnel only.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-015 New Dager Electrical Equ Autha Personnel Only 4X6-1.png"
+    },
+    {
+      "SignCode": "D-017",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "This enclosure contains high voltage electrical equipment and must not be entered. Entry by permission.",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-017 New Dager This Enclosure 4X6-1.png"
+    },
+    {
+      "SignCode": "D-022",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "Battery charging area. No smoking or open flames. Injury may result",
+      "Picto": "Yes",
+      "Size": "7X10",
+      "Industry": "All",
+      "Image": "D-022 Danger_BatteryChargingArea-1.png"
+    },
+    {
+      "SignCode": "D-024",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "Electrical Room. Authorized personnel only.",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-024 Danger_ElectricalRoom-APO-1.png"
+    },
+    {
+      "SignCode": "D-028",
+      "SignalWord": "Electrical ",
+      "subcategory": "Electrical Panel",
+      "Description": "HT Gloves mandatory during maintenance",
+      "Picto": "Yes",
+      "Size": "10X14",
+      "Industry": "All",
+      "Image": "D-028 Danger - HT Gloves-1.png"
+    }
+  ],
+  "Utility": [
+    {
+      "SignCode": "EL-21",
+      "SignalWord": "Utility ",
+      "subcategory": "Chemical ",
+      "Description": "Chemical Storage",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X73",
+      "Image": "EL-021- Chemical Storage-1.png"
+    },
+    {
+      "SignCode": "EL-22",
+      "SignalWord": "Utility ",
+      "subcategory": "Chemical ",
+      "Description": "Chemical Storage Safety Instruction",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X74",
+      "Image": "EL-022-Chemical Storage Safety Instruction-1.png"
+    },
+    {
+      "SignCode": "EL-24",
+      "SignalWord": "Utility ",
+      "subcategory": "Canteen",
+      "Description": "Canteen poster -1",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X76",
+      "Image": "EL-024 Canteen poster -1-1.png"
+    },
+    {
+      "SignCode": "EL-25",
+      "SignalWord": "Utility ",
+      "subcategory": "Canteen",
+      "Description": "Canteen poster -2",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X77",
+      "Image": "EL-025 -Canteen Poster -2-1.png"
+    },
+    {
+      "SignCode": "EL-26",
+      "SignalWord": "Utility ",
+      "subcategory": "Canteen",
+      "Description": "Canteen poster -3",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X78",
+      "Image": "EL-026 -Canteen Poster-3-1.png"
+    },
+    {
+      "SignCode": "EL-27",
+      "SignalWord": "Utility ",
+      "subcategory": "Canteen",
+      "Description": "Canteen poster -4",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X79",
+      "Image": "EL- 027 Canteen Poster -4-1.png"
+    },
+    {
+      "SignCode": "EL-28",
+      "SignalWord": "Utility ",
+      "subcategory": "LPG",
+      "Description": "LPG Safety Inst",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X80",
+      "Image": "EL- 028 LPG Safety Instructions-1.png"
+    },
+    {
+      "SignCode": "EL-30",
+      "SignalWord": "Utility ",
+      "subcategory": "Nitrogen",
+      "Description": "Nitrogen Safety Ins",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X82",
+      "Image": "EL- 030 Nitrogen Safety Instructions-1.png"
+    },
+    {
+      "SignCode": "EL-31",
+      "SignalWord": "Utility ",
+      "subcategory": "Others ",
+      "Description": "Heads up",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X83",
+      "Image": "EL-031-Heads up-1.png"
+    },
+    {
+      "SignCode": "EL-32",
+      "SignalWord": "Utility ",
+      "subcategory": "Forklift ",
+      "Description": "Forklift safety Instructions",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X84",
+      "Image": "EL 032- Forklift safety Instructions-1.png"
+    },
+    {
+      "SignCode": "EL-33",
+      "SignalWord": "Utility ",
+      "subcategory": "First Aid ",
+      "Description": "FIRST AID IN ELECTRIC SHOCK_Kannada",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X85",
+      "Image": "EL-033-FIRST AID IN ELECTRIC SHOCK_Kannada-1.png"
+    },
+    {
+      "SignCode": "EL-34",
+      "SignalWord": "Utility ",
+      "subcategory": "Lift ",
+      "Description": "Lift instructions",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X86",
+      "Image": "EL-034- Lift instructions-1.png"
+    },
+    {
+      "SignCode": "EL-35",
+      "SignalWord": "Utility ",
+      "subcategory": "Lock safety ",
+      "Description": "Lockout safety",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X87",
+      "Image": "EL-035 -Lockout safety-1.png"
+    },
+    {
+      "SignCode": "EL-36",
+      "SignalWord": "Utility ",
+      "subcategory": "LPG ",
+      "Description": "Lpg safety tips",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X88",
+      "Image": "EL-036 -Lpg safety tips-1.png"
+    },
+    {
+      "SignCode": "EL-37",
+      "SignalWord": "Utility ",
+      "subcategory": "RO",
+      "Description": "RO Plant safety instructions",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X89",
+      "Image": "EL-037-RO Plant safety instructions-1.png"
+    },
+    {
+      "SignCode": "EL-38",
+      "SignalWord": "Utility ",
+      "subcategory": "STP",
+      "Description": "STP Safety Instructions",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X90",
+      "Image": "EL-038- STP Safety Instructions-1.png"
+    },
+    {
+      "SignCode": "EL-39",
+      "SignalWord": "Utility ",
+      "subcategory": "Chiller",
+      "Description": "Chiller plant Safety Instructions",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X91",
+      "Image": "EL-039-Chiller plant Safety Instructions-1.png"
+    },
+    {
+      "SignCode": "EL-40",
+      "SignalWord": "Utility ",
+      "subcategory": "Evaporation",
+      "Description": "Evaporation Safety Instruction",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X92",
+      "Image": "EL-040- Evaporation Safety Instruction-1.png"
+    },
+    {
+      "SignCode": "EL-41",
+      "SignalWord": "Utility ",
+      "subcategory": "Pit area ",
+      "Description": "Pit area Safety Instruction",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X93",
+      "Image": "EL-41- Pit area Safety Instruction-1.png"
+    },
+    {
+      "SignCode": "EL-42",
+      "SignalWord": "Utility ",
+      "subcategory": "Recyling ",
+      "Description": "Recycling safety instructions",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X94",
+      "Image": "EL-42 -Recycling safety instructions-1.png"
+    },
+    {
+      "SignCode": "EL-43",
+      "SignalWord": "Utility ",
+      "subcategory": "Fire ",
+      "Description": "Fire Pump Safety Instructions ",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X95",
+      "Image": "EL -043-Fire pump Safety Instructions-1.png"
+    },
+    {
+      "SignCode": "EL-44",
+      "SignalWord": "Utility ",
+      "subcategory": "First Aid ",
+      "Description": "First aide ( Hindi, Gujarati)",
+      "Picto": "Yes",
+      "Size": "4x4,10X14,7X10,12X18,24X18,24X36,48X36,48X96",
+      "Image": "EL- 044-Fisrt aid-1.png"
     }
   ],
   "Pipemarker": [
@@ -5254,6 +5789,7 @@
       "SignalWord": "Pipemarker",
       "subcategory": "Gas",
       "Description": "Compressed Air",
+      "Picto": "Yes",
       "Size": "1X8,1.125x8,2.25x12,4x24,4x32,15x42",
       "Image": "P-1 Compressed Air-1.png"
     },
@@ -5262,6 +5798,7 @@
       "SignalWord": "Pipemarker",
       "subcategory": "Gas",
       "Description": "Coke oven gas",
+      "Picto": "Yes",
       "Size": "1X8,1.125x8,2.25x12,4x24,4x32,15x42",
       "Image": "P-2 Coke oven gas-1.png"
     },
@@ -5270,6 +5807,7 @@
       "SignalWord": "Pipemarker",
       "subcategory": "Water",
       "Description": "Chilled Water Outlet",
+      "Picto": "Yes",
       "Size": "1X8,1.125x8,2.25x12,4x24,4x32,15x42",
       "Image": "P-3 Chilled Water Outlet-1.png"
     },
@@ -5278,6 +5816,7 @@
       "SignalWord": "Pipemarker",
       "subcategory": "Water",
       "Description": "Chilled Water Inlet",
+      "Picto": "Yes",
       "Size": "1X8,1.125x8,2.25x12,4x24,4x32,15x42",
       "Image": "P-4 Chilled Water Inlet-1.png"
     },
@@ -5286,6 +5825,7 @@
       "SignalWord": "Pipemarker",
       "subcategory": "Gas",
       "Description": "Nitrogen",
+      "Picto": "Yes",
       "Size": "1X8,1.125x8,2.25x12,4x24,4x32,15x42",
       "Image": "P-5 Nitrogen-1.png"
     },
@@ -5294,6 +5834,7 @@
       "SignalWord": "Pipemarker",
       "subcategory": "Water",
       "Description": "Chilled water supply",
+      "Picto": "Yes",
       "Size": "1X8,1.125x8,2.25x12,4x24,4x32,15x42",
       "Image": "P-7 Chilled water supply-1.png"
     },
@@ -5302,6 +5843,7 @@
       "SignalWord": "Pipemarker",
       "subcategory": "Water",
       "Description": "Chilled water Return",
+      "Picto": "Yes",
       "Size": "1X8,1.125x8,2.25x12,4x24,4x32,15x42",
       "Image": "P-8 Chilled water Return-1.png"
     }
@@ -5312,6 +5854,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Striped",
       "Description": "Red and white-Y5475698 (2 inch)",
+      "Picto": "Yes",
       "Image": "FT-1 Floor Tapes.png"
     },
     {
@@ -5319,6 +5862,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Striped",
       "Description": "Black and yellow-Y5475671 (2 inch)",
+      "Picto": "Yes",
       "Image": "FT-2 Floor Tapes.png"
     },
     {
@@ -5326,6 +5870,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Color 4 inch",
       "Description": "Yellow (4 inch)",
+      "Picto": "Yes",
       "Image": "FT-3 Floor Tapes.png"
     },
     {
@@ -5333,6 +5878,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Color 2 inch",
       "Description": "Yellow-Y5475667 (2 inch)",
+      "Picto": "Yes",
       "Image": "FT-4 Floor Tapes.png"
     },
     {
@@ -5340,6 +5886,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Color 2 inch",
       "Description": "Red - Y5475662 (2 inch)",
+      "Picto": "Yes",
       "Image": "FT-5 Floor Tapes.png"
     },
     {
@@ -5347,6 +5894,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Antislip ",
       "Description": "Anti slip gid-Y437763 (1 inch)",
+      "Picto": "Yes",
       "Image": "FT-6 Floor Tapes.png"
     },
     {
@@ -5354,6 +5902,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Antislip ",
       "Description": "Anti skid tapes gid white-Y398266 (2 inch)",
+      "Picto": "Yes",
       "Image": "FT-7 Floor Tapes.png"
     },
     {
@@ -5361,6 +5910,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Antislip ",
       "Description": "Anti skid tape black-Y70203 (2 inch)",
+      "Picto": "Yes",
       "Image": "FT-8 Floor Tapes.png"
     },
     {
@@ -5368,6 +5918,7 @@
       "SignalWord": "Floor Tapes",
       "subcategory": "Exit",
       "Description": "Exit arrow rolls-Y979013 (3x5)",
+      "Picto": "Yes",
       "Image": "FT-9 Floor Tapes.png"
     }
   ],
@@ -5376,7 +5927,8 @@
       "SignCode": "B-01",
       "SignalWord": "Hanging Boards",
       "subcategory": "Triage",
-      "Description": "B-01  Area Name",
+      "Description": "Area Name",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-01  Area Name-1.png"
     },
@@ -5384,7 +5936,8 @@
       "SignCode": "B-02",
       "SignalWord": "Hanging Boards",
       "subcategory": "Triage",
-      "Description": "B-02  Area Name",
+      "Description": "Area Name",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-02  Area Name-1.png"
     },
@@ -5392,7 +5945,8 @@
       "SignCode": "B-03",
       "SignalWord": "Hanging Boards",
       "subcategory": "Triage",
-      "Description": "B-03  Area Name",
+      "Description": "Area Name",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-03  Area Name-1.png"
     },
@@ -5400,7 +5954,8 @@
       "SignCode": "B-04",
       "SignalWord": "Hanging Boards",
       "subcategory": "Reception",
-      "Description": "B-4 Reception",
+      "Description": "Reception",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-4 Reception-1.png"
     },
@@ -5408,7 +5963,8 @@
       "SignCode": "B-05",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-5 OP Billing",
+      "Description": "OP Billing",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-5 OP Billing-1.png"
     },
@@ -5416,7 +5972,8 @@
       "SignCode": "B-06",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-6 IP Billing",
+      "Description": "IP Billing",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-6 IP Billing-1.png"
     },
@@ -5424,7 +5981,8 @@
       "SignCode": "B-07",
       "SignalWord": "Hanging Boards",
       "subcategory": "Floor",
-      "Description": "B-7 Floor G",
+      "Description": "Floor G",
+      "Picto": "Yes",
       "Size": "8X24",
       "Image": "B-7 Floor G-1.png"
     },
@@ -5432,7 +5990,8 @@
       "SignCode": "B-08",
       "SignalWord": "Hanging Boards",
       "subcategory": "Floor",
-      "Description": "B-8 Floor 1",
+      "Description": "Floor 1",
+      "Picto": "Yes",
       "Size": "8X24",
       "Image": "B-8 Floor 1-1.png"
     },
@@ -5440,7 +5999,8 @@
       "SignCode": "B-09",
       "SignalWord": "Hanging Boards",
       "subcategory": "Floor",
-      "Description": "B-9 Floor 2",
+      "Description": "Floor 2",
+      "Picto": "Yes",
       "Size": "8X24",
       "Image": "B-9 Floor 2-1.png"
     },
@@ -5448,7 +6008,8 @@
       "SignCode": "B-10",
       "SignalWord": "Hanging Boards",
       "subcategory": "Floor",
-      "Description": "B-10 Floor 3",
+      "Description": "Floor 3",
+      "Picto": "Yes",
       "Size": "8X24",
       "Image": "B-10 Floor 3-1.png"
     },
@@ -5456,7 +6017,8 @@
       "SignCode": "B-11",
       "SignalWord": "Hanging Boards",
       "subcategory": "Floor",
-      "Description": "B-11 Floor 4",
+      "Description": "Floor 4",
+      "Picto": "Yes",
       "Size": "8X24",
       "Image": "B-11 Floor 4-1.png"
     },
@@ -5464,7 +6026,8 @@
       "SignCode": "B-12",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-12 Drinking water",
+      "Description": "Drinking water",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-12 Drinking water-1.png"
     },
@@ -5472,7 +6035,8 @@
       "SignCode": "B-13",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-13 General Store",
+      "Description": "General Store",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-13 General Store-1.png"
     },
@@ -5480,7 +6044,8 @@
       "SignCode": "B-14",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-14 Server Room",
+      "Description": "Server Room",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-14 Server Room-1.png"
     },
@@ -5488,7 +6053,8 @@
       "SignCode": "B-15",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-15 UPS Room",
+      "Description": "UPS Room",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-15 UPS Room-1.png"
     },
@@ -5496,7 +6062,8 @@
       "SignCode": "B-16",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-16 Air Compressor Room",
+      "Description": "Air Compressor Room",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-16 Air Compressor Room-1.png"
     },
@@ -5504,7 +6071,8 @@
       "SignCode": "B-17",
       "SignalWord": "Hanging Boards",
       "subcategory": "Instruction",
-      "Description": "B-17 Emergency",
+      "Description": "Emergency",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-17 Emergency-1.png"
     },
@@ -5512,7 +6080,8 @@
       "SignCode": "B-18",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-18 LT Panel Room",
+      "Description": "LT Panel Room",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-18 LT Panel Room-1.png"
     },
@@ -5520,7 +6089,8 @@
       "SignCode": "B-19",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-19 Conference Hall",
+      "Description": "Conference Hall",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-19 Conference Hall-1.png"
     },
@@ -5528,7 +6098,8 @@
       "SignCode": "B-20",
       "SignalWord": "Hanging Boards",
       "subcategory": "Area",
-      "Description": "B-20 Auditorium",
+      "Description": "Auditorium",
+      "Picto": "Yes",
       "Size": "6X18",
       "Image": "B-20 Auditorium-1.png"
     },
@@ -5536,7 +6107,8 @@
       "SignCode": "B-21",
       "SignalWord": "Hanging Boards",
       "subcategory": "Instruction",
-      "Description": "B-21 No Smoking",
+      "Description": "No Smoking",
+      "Picto": "Yes",
       "Size": "5X15",
       "Image": "B-21 No Smoking-1.png"
     },
@@ -5544,7 +6116,8 @@
       "SignCode": "B-22",
       "SignalWord": "Hanging Boards",
       "subcategory": "Instruction",
-      "Description": "B-22 Restricted Entry Authorised Personnel Only",
+      "Description": "Restricted Entry Authorised Personnel Only",
+      "Picto": "Yes",
       "Size": "5X15",
       "Image": "B-22 Restricted Entry Authorised Personnel Only-1.png"
     },
@@ -5552,7 +6125,8 @@
       "SignCode": "B-23",
       "SignalWord": "Hanging Boards",
       "subcategory": "Washroom",
-      "Description": "B-23 Washroom",
+      "Description": "Washroom",
+      "Picto": "Yes",
       "Size": "5X15",
       "Image": "B-23 Washroom-1.png"
     },
@@ -5560,7 +6134,8 @@
       "SignCode": "B-24",
       "SignalWord": "Hanging Boards",
       "subcategory": "Washroom",
-      "Description": "B-24 Male Washroom",
+      "Description": "Male Washroom",
+      "Picto": "Yes",
       "Size": "8X6",
       "Image": "B-24 Male Washroom-1.png"
     },
@@ -5568,7 +6143,8 @@
       "SignCode": "B-25",
       "SignalWord": "Hanging Boards",
       "subcategory": "Washroom",
-      "Description": "B-25 Female Washroom",
+      "Description": "Female Washroom",
+      "Picto": "Yes",
       "Size": "8X6",
       "Image": "B-25 Female Washroom-1.png"
     },
@@ -5576,7 +6152,8 @@
       "SignCode": "B-26",
       "SignalWord": "Hanging Boards",
       "subcategory": "Lift",
-      "Description": "B-26 Lift-01",
+      "Description": "Lift-01",
+      "Picto": "Yes",
       "Size": "4X12",
       "Image": "B-26 Lift-01-1.png"
     },
@@ -5584,7 +6161,8 @@
       "SignCode": "B-27",
       "SignalWord": "Hanging Boards",
       "subcategory": "Lift",
-      "Description": "B-27 Lift-02",
+      "Description": "Lift-02",
+      "Picto": "Yes",
       "Size": "4X12",
       "Image": "B-27 Lift-02-1.png"
     },
@@ -5592,7 +6170,8 @@
       "SignCode": "B-28",
       "SignalWord": "Hanging Boards",
       "subcategory": "Lift",
-      "Description": "B-28 Lift-03",
+      "Description": "Lift-03",
+      "Picto": "Yes",
       "Size": "4X12",
       "Image": "B-28 Lift-03-1.png"
     },
@@ -5600,7 +6179,8 @@
       "SignCode": "B-29",
       "SignalWord": "Hanging Boards",
       "subcategory": "Lift",
-      "Description": "B-29 Lift-04",
+      "Description": "Lift-04",
+      "Picto": "Yes",
       "Size": "4X12",
       "Image": "B-29 Lift-04-1.png"
     }

@@ -214,6 +214,7 @@ class BotController {
     }
   }
 
+  //find product from the category by name
   async findProductByName(name) {
     console.log("Searching for product by name:", name);
     const normalizedName = name.toLowerCase();

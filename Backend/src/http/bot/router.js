@@ -17,11 +17,8 @@ const ToCntlr = function (controllerClass, action) {
 Router.use(
   "/bot",
   (function (router) {
-    router.post("/chat", ToCntlr(BotController, "chat"));
-    router.post("/train", ToCntlr(BotController, "train"));
-    router.post("/getFineTune", ToCntlr(BotController, "retrieveFineTune"));
     router.post("/ask", ToCntlr(BotController, "ask"));
-    router.post("/format", ToCntlr(BotController, "format"));
+
     return router;
   })(Express.Router())
 );
