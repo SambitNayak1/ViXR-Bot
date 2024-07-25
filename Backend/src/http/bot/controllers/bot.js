@@ -121,6 +121,11 @@ class BotController {
     const signageCategoriesRegex =
       /all signages|available signages|signage categories/i;
 
+    // Regular expression to match queries about specific signage types dynamically
+    // Regular expression to match queries about specific signage types dynamically
+    const dynamicSignageRegex =
+      /(\w+)\s+(signage\s+)?(available|you\s+have|in\s+stock|exist)/i;
+
     if (numberOfSignagesRegex.test(message.toLowerCase())) {
       const totalSignageCategories = this.signageCategories.length;
       return this.resp.send({
@@ -136,6 +141,21 @@ class BotController {
       });
     }
 
+    const dynamicSignageMatch = message.match(dynamicSignageRegex);
+    if (dynamicSignageMatch) {
+      const requestedCategory = dynamicSignageMatch[1].toLowerCase().trim();
+      console.log("Requested Category:--", requestedCategory);
+      console.log("Available Categories:--", this.signageCategories);
+
+      // Normalize category names for comparison
+      const isCategoryAvailable = this.signageCategories.some(
+        (category) => category.toLowerCase() === requestedCategory
+      );
+
+      console.log("Is Category Available:--", isCategoryAvailable);
+      return this.resp.send({ response: isCategoryAvailable ? "Yes" : "No" });
+    }
+
     const extractedName = this.extractProductName(message);
     console.log("Extracted Product Name:--", extractedName);
 
@@ -143,19 +163,19 @@ class BotController {
       const product = await this.findProductByName(extractedName);
       if (product) {
         const prompt = `The user asked: "${message}". Provide a detailed response about the product in a conversational format:\n
-      SignCode: ${product.SignCode || "N/A"}
-      SignalWord: ${product.SignalWord || "N/A"}
-      Subcategory: ${product.Subcategory || "N/A"}
-      Description: ${product.Description || "N/A"}
-      Picto: ${product.Picto || "N/A"}
-      Format: ${product.Format || "N/A"}
-      Size: ${product.Size || "N/A"}
-      Industry: ${product.Industry || "N/A"}
-      Image: ${product.Image || "N/A"}
-      Material: ${product.Material || "N/A"}
-      Lamination: ${product.Lamination || "N/A"}
-      Backing: ${product.Backing || "N/A"}
-      Mounting: ${product.Mounting || "N/A"}
+      SignCode: ${product.SignCode || "N/A"},
+      SignalWord: ${product.SignalWord || "N/A"},
+      Subcategory: ${product.Subcategory || "N/A"},
+      Description: ${product.Description || "N/A"},
+      Picto: ${product.Picto || "N/A"},
+      Format: ${product.Format || "N/A"},
+      Size: ${product.Size || "N/A"},
+      Industry: ${product.Industry || "N/A"},
+      Image: ${product.Image || "N/A"},
+      Material: ${product.Material || "N/A"},
+      Lamination: ${product.Lamination || "N/A"},
+      Backing: ${product.Backing || "N/A"},
+      Mounting: ${product.Mounting || "N/A"},
 
       Please provide a friendly and informative response.`;
 
