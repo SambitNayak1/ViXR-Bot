@@ -3,6 +3,8 @@ const Router = Express.Router();
 
 const BotController = require("./controllers/bot");
 const TableController = require("./controllers/table");
+const NaturalController = require("./controllers/natural");
+//const GroqController = require("./controllers/groq");
 
 const ToCntlr = function (controllerClass, action) {
   return async function (req, resp, next) {
@@ -19,7 +21,11 @@ Router.use(
   "/bot",
   (function (router) {
     router.post("/ask", ToCntlr(BotController, "ask"));
+    router.post("/chat", ToCntlr(NaturalController, "chat"));
+    router.post("/flatten", ToCntlr(NaturalController, "flattenProducts"));
     router.post("/makeTable", ToCntlr(TableController, "makeTable"));
+    router.post("/toText", ToCntlr(NaturalController, "convertToText"));
+    //router.post("/query", ToCntlr(GroqController, "main"));
 
     return router;
   })(Express.Router())
