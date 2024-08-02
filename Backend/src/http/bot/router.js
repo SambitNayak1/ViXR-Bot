@@ -4,6 +4,7 @@ const Router = Express.Router();
 const BotController = require("./controllers/bot");
 const TableController = require("./controllers/table");
 const NaturalController = require("./controllers/natural");
+const AudioController = require("./controllers/speechText");
 //const GroqController = require("./controllers/groq");
 
 const ToCntlr = function (controllerClass, action) {
@@ -26,6 +27,8 @@ Router.use(
     router.post("/makeTable", ToCntlr(TableController, "makeTable"));
     router.post("/toText", ToCntlr(NaturalController, "convertToText"));
     //router.post("/query", ToCntlr(GroqController, "main"));
+
+    router.post("/speech", ToCntlr(AudioController, "speechToText"));
 
     return router;
   })(Express.Router())
